@@ -19,12 +19,12 @@ and solutionists. This report shows who has done most business work in the compa
 Classify every email id present as Employee,CEO,CFO,Trader,President/VicePresident
 This classification is done based on the research paper from Simon Fraser University
 Link - http://www.sfu.ca/~shaw/papers/Joorabchi-EmailTimeCase-AbstractVAST10.pdf
-#Classification Criteria is mentioned in the paper
+Classification Criteria is mentioned in the paper
   
-  #Sent < #Received - President/VicePresident
-  #Sent > #Received - Employee
-  #Sent > #Received - Manager
-  #Different email id - Vendor/Trader/Solution
+  Sent < #Received - President/VicePresident
+  Sent > #Received - Employee
+  Sent > #Received - Manager
+  Different email id - Vendor/Trader/Solution
   
  
 
