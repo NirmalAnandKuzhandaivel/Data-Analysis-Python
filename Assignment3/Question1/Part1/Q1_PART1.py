@@ -2,7 +2,7 @@ import calendar
 import numpy as np
 import pandas as pd
 from pandas import Series, DataFrame
-vehicle_data=pd.read_csv("/Users/nirmal/Desktop/Python/Assignments/Data/vehicle_collisions.csv",sep=",")
+vehicle_data=pd.read_csv("~/Desktop/Python/Assignments/Data/vehicle_collisions.csv",sep=",")
 vehicle_data['Month'] = (pd.to_datetime(vehicle_data['DATE']).dt.month).apply(lambda x: calendar.month_abbr[x])
 vehicle_data['Year'] =  (pd.to_datetime(vehicle_data['DATE']).dt.year)
 vehicle_data=vehicle_data[vehicle_data.Year==2016]

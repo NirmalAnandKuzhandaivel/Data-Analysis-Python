@@ -1,7 +1,7 @@
 from pandas import Series, DataFrame
 import pandas as pd
 import numpy as np
-data=pd.read_csv('/Users/nirmal/Desktop/Python/Assignments/Data/employee_compensation.csv',sep=',')
+data=pd.read_csv('~/Desktop/Python/Assignments/Data/employee_compensation.csv',sep=',')
 
 # Filter the data based on year type Calendar
 

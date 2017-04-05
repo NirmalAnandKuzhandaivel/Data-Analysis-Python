@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 
-runs=pd.read_csv('/Users/nirmal/Desktop/Python/Assignments/Data/cricket_matches.csv',sep=',')[['home','result','winner','innings1','innings1_runs','innings2','innings2_runs']]
+runs=pd.read_csv('~/Desktop/Python/Assignments/Data/cricket_matches.csv',sep=',')[['home','result','winner','innings1','innings1_runs','innings2','innings2_runs']]
 runs['home_win']=np.where(runs['home']==runs['winner'],'YES','NO')
 
 ## Restrict data to home Winner

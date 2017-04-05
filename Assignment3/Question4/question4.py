@@ -1,8 +1,9 @@
 import pandas as pd
 import numpy as np
 import re
-df=pd.read_csv('/Users/nirmal/Desktop/Python/Assignments/Data/movies_awards.csv',sep=',')[['Title','Awards']]
-df.head()
+df=pd.read_csv('~/Desktop/Python/Assignments/Data/movies_awards.csv',sep=',')[['Title','Awards']]
+
+#Extracting the digits from each award
 
 
 df['Awards_won'] = df['Awards'].str.extract('(\d+) w', expand=True).fillna(0)
@@ -16,6 +17,7 @@ df['Oscar_Awards_Won']  = df['Awards'].str.extract('Won (\d+) Oscar[s]?', expand
 df['Prime_Awards_Won'] = df['Awards'].str.extract('Won (\d+) Prime', expand=True).fillna(0)
 df['Golden_Globe_Awards_Won'] = df['Awards'].str.extract('Won (\d+) Golden', expand=True).fillna(0)
 
+#Converting the columns to numeric
 
 df[['Awards_won','Awards_Nominated']]=df[['Awards_won','Awards_Nominated']].apply(pd.to_numeric,errors='ignore')
 df[['Bafta_Awards_Nominated']]=df[['Bafta_Awards_Nominated']].apply(pd.to_numeric,errors='ignore')
@@ -27,6 +29,7 @@ df[['Oscar_Awards_Won']]=df[['Oscar_Awards_Won']].apply(pd.to_numeric,errors='ig
 df[['Prime_Awards_Won']]=df[['Prime_Awards_Won']].apply(pd.to_numeric,errors='ignore')
 df[['Golden_Globe_Awards_Won']]=df[['Golden_Globe_Awards_Won']].apply(pd.to_numeric,errors='ignore')
 
+#Adding rest of the awards to Main Column
 
 df['Awards_won']=df['Awards_won'] + df['Bafta_Awards_Won']+df['Oscar_Awards_Won']+\
     df['Prime_Awards_Won']+df['Golden_Globe_Awards_Won']

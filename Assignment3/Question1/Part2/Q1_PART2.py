@@ -3,7 +3,7 @@
 import numpy as np
 import pandas as pd
 from pandas import Series, DataFrame
-data=pd.read_csv("/Users/nirmal/Desktop/Python/Assignments/Data/vehicle_collisions.csv",sep=",")
+data=pd.read_csv("~/Desktop/Python/Assignments/Data/vehicle_collisions.csv",sep=",")
 pdf=DataFrame(data, columns=['BOROUGH', 'VEHICLE 1 TYPE','VEHICLE 2 TYPE','VEHICLE 3 TYPE','VEHICLE 4 TYPE','VEHICLE 5 TYPE'])
 
 pdf['VEHICLE 1 TYPE'] = pdf['VEHICLE 1 TYPE'].apply(lambda x: 0 if pd.isnull(x) else 1)
