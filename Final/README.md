@@ -53,20 +53,32 @@ pip install <packagename>
 ### 1.Ride Count and Fare Analysis of GreenTaxi,Uber,YellowTaxi
 
 Step-1:Merge all GreenTaxi Files to one dataFrame and Yellow Taxi Files to another Frame
+
 Step-2:Take Sampling records from Yellow Taxi as records are huge
+
 Step-3:Put Uber Data in a DataFrame
+
 Step-4:Merge all the dataframe into one DataFrame selecting only the required columns (E.g Pickup Date)
+
 Step-5:Group the Records Based on Taxi,Month to get the count
+
 Step-6:Group the Records Based on Taxi,Month on all the Fares Column
+
 
 ### 2. Speed Co-relation between No of Rides per hour and Distance
 
 Step-1:Merge all GreenTaxi Files to one dataFrame
+
 Step-2:Choose the columns PickupDate,DropDate,Distance
+
 Step-3:Calculate speed column using the formula Speed=(Distance/(DropDate-PickUpDate)
+
 Step-4:Remove the records with 0.0 values as some speeds are negligible due to traffic
+
 Step-5:Group the Records By Speed of the Ride and Take the percentile speed change with respect to total Trips
+
 Step-6:Group the Records By Speed of the Ride and Take the percentile Distance covered with respect to total Trips
+
 
 ### 3. Average Tip Range for the Drivers and Peak Hours where more Tips were Given
 
