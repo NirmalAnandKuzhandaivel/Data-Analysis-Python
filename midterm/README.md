@@ -6,6 +6,7 @@
 
 Every employee commmunicates with every other employee. This analysis calculate the No of emails sent from every employee to every other employee (Basically a Many to Many calculation) Data is sorted to check which two employees have communicated the most. May be checking those emails may provide some clue to the Enron bankruptcy.
 
+![analysis1_amount_monthwise](https://cloud.githubusercontent.com/assets/25700292/25308006/8bcb15dc-2779-11e7-91b6-9c8e0ea74357.png)
 
 ### Analysis 2 
 

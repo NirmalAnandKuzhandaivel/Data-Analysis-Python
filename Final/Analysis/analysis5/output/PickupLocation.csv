@@ -1,0 +1,99 @@
+,pickup_time_hour,pickup_location,count
+0,0,Bronx,1
+1,0,Brooklyn,17
+2,0,Kings County,1
+3,0,Manhattan,11
+4,0,Queens,11
+5,1,Bronx,5
+6,1,Brooklyn,19
+7,1,Kings County,3
+8,1,Manhattan,10
+9,1,Queens,7
+10,1,Queens County,1
+11,2,Bronx,3
+12,2,Brooklyn,23
+13,2,Kings County,3
+14,2,Manhattan,3
+15,2,Queens,8
+16,3,Bronx,5
+17,3,Brooklyn,28
+18,3,Manhattan,7
+19,3,Queens,14
+20,4,Bronx,4
+21,4,Brooklyn,15
+22,4,Kings County,1
+23,4,Manhattan,6
+24,4,Queens,13
+25,4,Queens County,1
+26,5,Bronx,2
+27,5,Brooklyn,11
+28,5,Kings County,1
+29,5,Manhattan,3
+30,5,New York,1
+31,5,Queens,10
+32,6,Bronx,1
+33,6,Brooklyn,6
+34,6,Manhattan,4
+35,6,Queens,6
+36,7,Brooklyn,1
+37,7,Manhattan,1
+38,7,Queens,2
+39,8,Brooklyn,2
+40,8,Queens,2
+41,9,Bronx,1
+42,9,Brooklyn,2
+43,9,Manhattan,3
+44,10,Brooklyn,2
+45,10,Manhattan,2
+46,10,Queens,2
+47,11,Brooklyn,2
+48,11,Manhattan,5
+49,11,Queens,3
+50,12,Manhattan,5
+51,13,Brooklyn,4
+52,13,Manhattan,5
+53,13,Queens,4
+54,14,Brooklyn,7
+55,14,Manhattan,4
+56,14,Queens,2
+57,15,Brooklyn,2
+58,15,Kings County,1
+59,15,Manhattan,7
+60,15,Queens,8
+61,16,Bronx,2
+62,16,Brooklyn,6
+63,16,Manhattan,6
+64,16,Queens,4
+65,16,Queens County,1
+66,17,Bronx,2
+67,17,Brooklyn,11
+68,17,Manhattan,2
+69,17,Queens,5
+70,18,Bronx,2
+71,18,Brooklyn,7
+72,18,Manhattan,7
+73,18,Queens,8
+74,19,Bronx,1
+75,19,Brooklyn,6
+76,19,Manhattan,2
+77,19,New York,1
+78,19,Queens,3
+79,19,Williamsburg,1
+80,20,Bronx,2
+81,20,Brooklyn,11
+82,20,Kings County,1
+83,20,Manhattan,4
+84,20,Queens,3
+85,20,Upper Manhattan,1
+86,21,Bronx,1
+87,21,Brooklyn,10
+88,21,Manhattan,5
+89,21,Queens,6
+90,22,Brooklyn,4
+91,22,Kings County,3
+92,22,Manhattan,7
+93,22,Queens,6
+94,22,Queens County,1
+95,23,Brooklyn,5
+96,23,Manhattan,5
+97,23,Queens,4

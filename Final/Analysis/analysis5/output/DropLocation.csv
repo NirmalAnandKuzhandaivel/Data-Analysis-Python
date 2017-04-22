@@ -1,0 +1,106 @@
+,drop_time_hour,drop_location,count
+0,0,Bronx,2
+1,0,Brooklyn,11
+2,0,Manhattan,13
+3,0,Queens,11
+4,1,Bronx,5
+5,1,Bronx County,1
+6,1,Brooklyn,17
+7,1,Manhattan,13
+8,1,New York,1
+9,1,Queens,8
+10,2,Bronx,2
+11,2,Brooklyn,19
+12,2,Crown Heights,1
+13,2,Fairfield County,1
+14,2,Manhattan,13
+15,2,Queens,5
+16,3,Bronx,3
+17,3,Brooklyn,17
+18,3,Manhattan,14
+19,3,Mount Vernon,1
+20,3,Queens,12
+21,3,Staten Island,1
+22,4,Bronx,6
+23,4,Brooklyn,15
+24,4,Kings County,2
+25,4,Manhattan,10
+26,4,Queens,12
+27,5,Bronx,2
+28,5,Brooklyn,14
+29,5,Manhattan,5
+30,5,Queens,11
+31,6,Brooklyn,3
+32,6,Manhattan,6
+33,6,New York,1
+34,6,Queens,7
+35,7,Bronx,1
+36,7,Brooklyn,1
+37,7,Manhattan,3
+38,7,Queens,3
+39,8,Bedford-Stuyvesant,1
+40,8,Brooklyn,1
+41,8,Manhattan,2
+42,9,Bronx,1
+43,9,Manhattan,5
+44,10,Brooklyn,1
+45,10,Manhattan,3
+46,10,Queens,1
+47,11,Brooklyn,2
+48,11,Manhattan,4
+49,11,Queens,1
+50,11,Queens County,1
+51,12,Bronx,1
+52,12,Manhattan,4
+53,12,New York,1
+54,12,Queens,2
+55,13,Brooklyn,2
+56,13,Manhattan,3
+57,13,Queens,2
+58,13,Queens County,1
+59,14,Brooklyn,2
+60,14,Manhattan,7
+61,14,Queens,3
+62,15,Brooklyn,4
+63,15,Manhattan,8
+64,15,Queens,6
+65,15,Queens County,1
+66,16,Bronx,1
+67,16,Brooklyn,5
+68,16,Manhattan,7
+69,16,Queens,5
+70,16,Queens County,2
+71,17,Bronx,2
+72,17,Brooklyn,9
+73,17,Manhattan,2
+74,17,New York,1
+75,17,Queens,3
+76,17,Queens County,1
+77,18,Brooklyn,6
+78,18,Manhattan,10
+79,18,North Hempstead,1
+80,18,Queens,8
+81,18,Queens County,1
+82,19,Bronx,2
+83,19,Brooklyn,6
+84,19,Manhattan,3
+85,19,Queens,4
+86,20,Bronx,2
+87,20,Brooklyn,8
+88,20,Downtown Brooklyn,1
+89,20,Manhattan,7
+90,20,Queens,2
+91,21,Bronx,2
+92,21,Brooklyn,9
+93,21,Manhattan,7
+94,21,Queens,5
+95,22,Bronx,1
+96,22,Brooklyn,4
+97,22,Kings County,1
+98,22,Manhattan,9
+99,22,Queens,6
+100,23,Bronx,1
+101,23,Brooklyn,6
+102,23,Hempstead,1
+103,23,Manhattan,3
+104,23,Queens,3
