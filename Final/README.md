@@ -3,22 +3,31 @@
 
 ## Introduction
 
-#### The New York City Taxi  has released a staggeringly detailed historical dataset covering over 1.1 billionindividual taxi trips in the city from January 2009 through June 2015.As the Data is huge, I have taken data from Jan 2016 to June 2016 for my analysis.Taken as a part of data How much are the earnings by each Taxi Companies , What affects the speed of the Taxi , How weather is related to the rides are the co-relations that you can infer from it .
+The New York City Taxi  has released a staggeringly detailed historical dataset covering over 1.1 billionindividual taxi trips in the city from January 2009 through June 2015.As the Data is huge, I have taken data from Jan 2016 to June 2016 for my analysis.Taken as a part of data How much are the earnings by each Taxi Companies , What affects the speed of the Taxi , How weather is related to the rides are the co-relations that you can infer from it .
 
 ## Prerequisites
 
-#### For this analysis, I have used following libraries. You can also get them by using the following simple command:
+For this analysis, I have used following libraries. You can also get them by using the following simple command. The packages were installed using the following command.
 
 ```
 pip install <packagename>
 
 ```
 
-### 
+#### Libraries Installed
 
-
-   
-
+    Requests
+    OAuth1 from requests_oauthlib
+    json
+    os
+    time
+    glob
+    Pandas
+    Numpy
+    Matplotlib
+    Seaborn
+    Textblob
+    datetime
     
 ## Data Collection
    
