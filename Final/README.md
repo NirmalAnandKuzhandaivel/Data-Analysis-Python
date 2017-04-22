@@ -30,6 +30,12 @@ pip install <packagename>
     datetime
     
 ## Data Collection
+
+#### Weather Data
+
+![weather](https://cloud.githubusercontent.com/assets/25700292/25308539/a69dd146-2784-11e7-91bc-03cce4dc5e6d.gif)
+
+
    
 ![analysis1_amount_monthwise](https://cloud.githubusercontent.com/assets/25700292/25308006/8bcb15dc-2779-11e7-91b6-9c8e0ea74357.png)
 
