@@ -1,11 +1,11 @@
 
 # INFO 7374 - NYC TAXI ANALYSIS WITH WEATHER AND UBER
 
-## Introduction
+# Introduction
 
 The New York City Taxi  has released a staggeringly detailed historical dataset covering over 1.1 billionindividual taxi trips in the city from January 2009 through June 2015.As the Data is huge, I have taken data from Jan 2016 to June 2016 for my analysis.Taken as a part of data How much are the earnings by each Taxi Companies , What affects the speed of the Taxi , How weather is related to the rides are the co-relations that you can infer from it .
 
-## Prerequisites
+# Prerequisites
 
 For this analysis, I have used following libraries. You can also get them by using the following simple command. The packages were installed using the following command.
 
@@ -29,7 +29,7 @@ pip install <packagename>
     Textblob
     datetime
     
-## Step -1 :Data Collection
+# Step -1 :Data Collection
 
 #### Weather Data
 
@@ -48,9 +48,9 @@ pip install <packagename>
 ![yellowtaxi](https://cloud.githubusercontent.com/assets/25700292/25308659/9d0e6a16-2787-11e7-903f-fabc69f9be5f.gif)
 
 
-## Step -2 :Data Processing
+# Step -2 :Data Processing
 
-#### 1.Ride Count and Fare Analysis of GreenTaxi,Uber,YellowTaxi
+## 1.Ride Count and Fare Analysis of GreenTaxi,Uber,YellowTaxi
 
 Step-1:Merge all GreenTaxi Files to one dataFrame and Yellow Taxi Files to another Frame
 
@@ -65,7 +65,7 @@ Step-5:Group the Records Based on Taxi,Month to get the count
 Step-6:Group the Records Based on Taxi,Month on all the Fares Column
 
 
-#### 2. Speed Co-relation between No of Rides per hour and Distance
+## 2. Speed Co-relation between No of Rides per hour and Distance
 
 Step-1:Merge all GreenTaxi Files to one dataFrame
 
@@ -80,7 +80,7 @@ Step-5:Group the Records By Speed of the Ride and Take the percentile speed chan
 Step-6:Group the Records By Speed of the Ride and Take the percentile Distance covered with respect to total Trips
 
 
-#### 3. Average Tip Range for the Drivers and Peak Hours where more Tips were Given
+## 3. Average Tip Range for the Drivers and Peak Hours where more Tips were Given
 
 Step-1:Merge all GreenTaxi Files to one dataFrame and Take a Sample of 20,000 records
 
@@ -97,7 +97,7 @@ Step-5:Calculate the Hour and Weekday for each Ride from the Dataframe along wit
 Step-6:The output of the step-5 is pivotted for my convenience to plot HeatMap
 
 
-#### 4. Green Taxi Rides Comparison with Weather Changes
+## 4. Green Taxi Rides Comparison with Weather Changes
 
 Step-1:Merge all GreenTaxi Files to one dataFrame.
 
@@ -115,7 +115,7 @@ Step-6:Use Numpy Bins to calculate count of rides based on the Snow Ranges
 
         Snow Bins={0.0,5.0,10.0,15.0,20.0,25.0}
         
-#### 5. Pick ups and Drops Based on location in NYC
+## 5. Pick ups and Drops Based on location in NYC
 
 Step-1:Merge all GreenTaxi Files to one dataFrame and Take a Sample of 20,000 records
 
