@@ -150,8 +150,16 @@ The below Plot  show Amount Earned by Different Taxi Companies subcategorzing th
 ![analysis1_taxi_earning_category](https://cloud.githubusercontent.com/assets/25700292/25309025/a140308a-278f-11e7-8f0e-5c0d0c0068e3.png)
 
 
+## 3. Average Tip Range for the Drivers and Peak Hours where more Tips were Given
+
+The below plot calculates the co-relation between percentage of rides,no of rides and the Avergage Tips Given. We can understand from the analysis that if the number of rides are more the Tip range is very low. Vice Versa,If the no of rides is very less,Tip Range is very high. The above plot indicates customers were more satisfied when the no of rides were low they would have got the rides quicker after booking a Taxi and wait time would have been less.
+
+![analysis3_average_tip_given](https://cloud.githubusercontent.com/assets/25700292/25309096/85501ec4-2791-11e7-82f5-bc2091cd6e62.png)
 
 
+The below categorizes the average Tip Percentage on a weekday basis by binning into every hour of the day. From the plot we can understand that Tip ranges were higher after 12:00 AM and before 9:00 AM.
+
+![heatmap](https://cloud.githubusercontent.com/assets/25700292/25309097/86e94864-2791-11e7-908f-ba7e1305d299.png)
 
 
 
