@@ -31,6 +31,7 @@ pip install <packagename>
     
 ## Data Collection
    
+![analysis1_amount_monthwise](https://cloud.githubusercontent.com/assets/25700292/25308006/8bcb15dc-2779-11e7-91b6-9c8e0ea74357.png)
 
 
 
