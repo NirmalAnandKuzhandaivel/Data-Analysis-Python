@@ -131,6 +131,7 @@ Step-5:Group the Data by Pickup Time and PickUp Location.
 
 # Step-3: Data Analysis
 
+
 ## 1.Ride Count and Fare Analysis of GreenTaxi,Uber,YellowTaxi
 
 The below Plot calculates the No of Rides by each Taxi Companies based on Month.
@@ -150,6 +151,12 @@ The below Plot  show Amount Earned by Different Taxi Companies subcategorzing th
 ![analysis1_taxi_earning_category](https://cloud.githubusercontent.com/assets/25700292/25309025/a140308a-278f-11e7-8f0e-5c0d0c0068e3.png)
 
 
+## 2. Speed Co-relation between No of Rides per hour and Distance
+
+The below plot indicates when the No of Rides are more the Seed
+
+
+
 ## 3. Average Tip Range for the Drivers and Peak Hours where more Tips were Given
 
 The below plot calculates the co-relation between percentage of rides,no of rides and the Avergage Tips Given. We can understand from the analysis that if the number of rides are more the Tip range is very low. Vice Versa,If the no of rides is very less,Tip Range is very high. The above plot indicates customers were more satisfied when the no of rides were low they would have got the rides quicker after booking a Taxi and wait time would have been less.
@@ -162,11 +169,16 @@ The below categorizes the average Tip Percentage on a weekday basis by binning i
 ![heatmap](https://cloud.githubusercontent.com/assets/25700292/25309097/86e94864-2791-11e7-908f-ba7e1305d299.png)
 
 
+## 4. Green Taxi Rides Comparison with Weather Changes
 
 
+The below plot indicates there were no rides when precipitation ranges of weather were higher in NYC
 
+<img width="637" alt="precipitation-ride" src="https://cloud.githubusercontent.com/assets/25700292/25309286/30ee107e-2797-11e7-9001-581a50fe177a.png">
 
+The below plot indicates there were less rides when it was snowing in NYC
 
+<img width="630" alt="snow-ride" src="https://cloud.githubusercontent.com/assets/25700292/25309285/30ed2aa6-2797-11e7-9b1e-eb5a805caf53.png">
 
 
 
