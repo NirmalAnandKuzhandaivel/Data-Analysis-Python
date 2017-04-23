@@ -52,6 +52,7 @@ pip install <packagename>
 <a href="http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml">Yellow Taxi and Green Taxi Data</a>
 
 I have not uploaded Yellow Taxi Data as the file sizes are huge. It can be downloaded from the above link.
+Also I did use more csv files than the one uploaded in github Data Folder.
 
 
 # Step -2 :Data Processing
