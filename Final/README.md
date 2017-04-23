@@ -193,12 +193,11 @@ The below categorizes the average Tip Percentage on a weekday basis by binning i
 ##### Sample Output
 
 
-layout|default
+Condtions|count
 ------|--------
-title|about this site
-
-
-
+0-1|2683594
+1-2|179273
+2-3|11031
 
 The below plot indicates there were no rides when precipitation ranges of weather were higher in NYC
 
