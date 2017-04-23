@@ -47,6 +47,10 @@ pip install <packagename>
    
 ![yellowtaxi](https://cloud.githubusercontent.com/assets/25700292/25308659/9d0e6a16-2787-11e7-903f-fabc69f9be5f.gif)
 
+#### Link to Get Taxi Data
+
+<a href="http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml">Yellow Taxi and Green Taxi Data</a>
+
 
 # Step -2 :Data Processing
 
