@@ -51,6 +51,8 @@ pip install <packagename>
 
 <a href="http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml">Yellow Taxi and Green Taxi Data</a>
 
+I have not uploaded Yellow Taxi Data as the file sizes are huge. It can be downloaded from the above link.
+
 
 # Step -2 :Data Processing
 
@@ -220,13 +222,18 @@ The below plot indicates there were less rides when it was snowing in NYC
 
 ## 5. Pick ups and Drops Based on location in NYC
 
-The below plot indicates there were more picks up in Brooklyn in the early morning hours upon Comparing the four cities.
+The below plot indicates there were more picks up in Brooklyn in the early morning hours compared to other places
 
 <img width="635" alt="pickup" src="https://cloud.githubusercontent.com/assets/25700292/25309589/4e743134-279f-11e7-9ebe-e1c1c480ff0b.png">
 
-The below plot indicates there were more drops up in Brooklyn in the early morning hours upon Comparing the four cities.
+The below plot indicates there were more drops up in Brooklyn in the early morning hours  compared to other places
 
 <img width="636" alt="dropoff" src="https://cloud.githubusercontent.com/assets/25700292/25309590/4e748fa8-279f-11e7-8f57-ca16d01cca35.png">
+
+The below plot shows the pickup and drop locations in the scatterplot.
+
+<img width="602" alt="pickup_drop_locations" src="https://cloud.githubusercontent.com/assets/14088093/25310512/dc5bcf16-27b3-11e7-87db-21977a9ec519.png">
+
 
 
 
