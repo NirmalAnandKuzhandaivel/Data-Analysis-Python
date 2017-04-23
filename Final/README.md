@@ -190,6 +190,15 @@ The below categorizes the average Tip Percentage on a weekday basis by binning i
 
 ## 4. Green Taxi Rides Comparison with Weather Changes
 
+##### Sample Output
+
+---
+
+layout:default
+title:about this site
+
+---
+
 
 The below plot indicates there were no rides when precipitation ranges of weather were higher in NYC
 
