@@ -140,15 +140,16 @@ The below Plot calculates the No of Rides by each Taxi Companies based on Month.
 
 The below Plot calculates Amount Earned under different category every month by all three companies
 
-![analysis1_amount_monthwise](https://cloud.githubusercontent.com/assets/25700292/25309024/a13d72a0-278f-11e7-93b6-0277d0e47ea3.png)
+<img width="690" alt="amount earned by taxis-6 months category" src="https://cloud.githubusercontent.com/assets/25700292/25309630/36548abc-27a0-11e7-9329-946df5c300c7.png">
 
 The below Plot  show Total Amount Earned by Taxi Companies Every Month
 
-![analysis1_taxi_amount](https://cloud.githubusercontent.com/assets/25700292/25309026/a140e926-278f-11e7-9d81-b64f78666e0f.png)
+<img width="684" alt="monthwise by company" src="https://cloud.githubusercontent.com/assets/25700292/25309632/365634de-27a0-11e7-8a6d-619ce38549bf.png">
 
 The below Plot  show Amount Earned by Different Taxi Companies subcategorzing the previous plot.
 
-![analysis1_taxi_earning_category](https://cloud.githubusercontent.com/assets/25700292/25309025/a140308a-278f-11e7-8f0e-5c0d0c0068e3.png)
+<img width="711" alt="amount earned by taxis-category" src="https://cloud.githubusercontent.com/assets/25700292/25309631/3655eca4-27a0-11e7-95e5-85a25b228c9c.png">
+
 
 
 ## 2. Speed Co-relation between No of Rides per hour and Distance
