@@ -191,11 +191,11 @@ The below plot indicates there were less rides when it was snowing in NYC
 
 The below plot indicates there were more picks up in Brooklyn in the early morning hours upon Comparing the four cities.
 
-![pickup](https://cloud.githubusercontent.com/assets/25700292/25309373/92c44f82-2799-11e7-9ae3-407fc717f60e.png)
+<img width="635" alt="pickup" src="https://cloud.githubusercontent.com/assets/25700292/25309589/4e743134-279f-11e7-9ebe-e1c1c480ff0b.png">
 
 The below plot indicates there were more drops up in Brooklyn in the early morning hours upon Comparing the four cities.
 
-![drop](https://cloud.githubusercontent.com/assets/25700292/25309374/92c64fda-2799-11e7-9bc5-9d1d60d685ac.png)
+<img width="636" alt="dropoff" src="https://cloud.githubusercontent.com/assets/25700292/25309590/4e748fa8-279f-11e7-8f57-ca16d01cca35.png">
 
 
 
