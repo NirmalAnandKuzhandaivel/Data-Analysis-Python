@@ -1,6 +1,8 @@
 
 # INFO 7374 - NYC TAXI ANALYSIS WITH WEATHER AND UBER
 
+![nyc_taxi](https://cloud.githubusercontent.com/assets/14088093/25310558/bce34f14-27b4-11e7-9cc1-124f3e9d013a.png)
+
 # Introduction
 
 The New York City Taxi  has released a staggeringly detailed historical dataset covering over 1.1 billionindividual taxi trips in the city from January 2009 through June 2015.As the Data is huge, I have taken data from Jan 2016 to June 2016 for my analysis.Taken as a part of data How much are the earnings by each Taxi Companies , What affects the speed of the Taxi , How weather is related to the rides are the co-relations that you can infer from it .
