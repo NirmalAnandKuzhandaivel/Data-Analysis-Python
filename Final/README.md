@@ -190,7 +190,7 @@ The below categorizes the average Tip Percentage on a weekday basis by binning i
 
 ## 4. Green Taxi Rides Comparison with Weather Changes
 
-##### Sample Output
+##### Precipitation Output
 
 
 Condtions|count
@@ -202,6 +202,16 @@ Condtions|count
 The below plot indicates there were no rides when precipitation ranges of weather were higher in NYC
 
 <img width="637" alt="precipitation-ride" src="https://cloud.githubusercontent.com/assets/25700292/25309286/30ee107e-2797-11e7-9001-581a50fe177a.png">
+
+##### Snow Output
+
+Condtions|count
+------|--------
+0 - 5|150265.0
+5 - 10|227127.0
+10 - 15|0.0
+15 - 20|87265.0
+20 - 25|22010.0
 
 The below plot indicates there were less rides when it was snowing in NYC
 
