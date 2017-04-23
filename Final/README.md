@@ -185,7 +185,7 @@ The below plot indicates when the no of taxis covering longer distance is lower 
 
 The below plot calculates the co-relation between percentage of rides,no of rides and the Avergage Tips Given. We can understand from the analysis that if the number of rides are more the Tip range is very low. Vice Versa,If the no of rides is very less,Tip Range is very high. The above plot indicates customers were more satisfied when the no of rides were low they would have got the rides quicker after booking a Taxi and wait time would have been less.
 
-![analysis3_average_tip_given](https://cloud.githubusercontent.com/assets/25700292/25309096/85501ec4-2791-11e7-82f5-bc2091cd6e62.png)
+<img width="618" alt="average_tip" src="https://cloud.githubusercontent.com/assets/14088093/25310651/7fd4043a-27b7-11e7-9b53-7736a4ad947c.png">
 
 
 The below categorizes the average Tip Percentage on a weekday basis by binning into every hour of the day. From the plot we can understand that Tip ranges were higher after 12:00 AM and before 9:00 AM.
