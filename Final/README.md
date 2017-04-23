@@ -125,6 +125,14 @@ Step-3:Google Maps API is used to calculate locations from Latitude and Longitud
 
         URL-https://maps.googleapis.com/maps/api/geocode/json
         
+```
+        
+        SampleJson:
+        
+        [{"long_name": "331", "short_name": "331", "types": ["street_number"]}, {"long_name": "79th Street", "short_name": "79th St", "types": ["route"]}, {"long_name": "Bay Ridge", "short_name": "Bay Ridge", "types": ["neighborhood", "political"]}, {"long_name": "Brooklyn", "short_name": "Brooklyn", "types": ["political", "sublocality", "sublocality_level_1"]}, {"long_name": "Kings County", "short_name": "Kings County", "types": ["administrative_area_level_2", "political"]}, {"long_name": "New York", "short_name": "NY", "types": ["administrative_area_level_1", "political"]}, {"long_name": "United States", "short_name": "US", "types": ["country", "political"]}, {"long_name": "11209", "short_name": "11209", "types": ["postal_code"]}, {"long_name": "3609", "short_name": "3609", "types": ["postal_code_suffix"]}]
+        
+```
+        
 Step-4:Group the Data by Drop Time and Drop Location.
 
 Step-5:Group the Data by Pickup Time and PickUp Location.
