@@ -153,8 +153,13 @@ The below Plot  show Amount Earned by Different Taxi Companies subcategorzing th
 
 ## 2. Speed Co-relation between No of Rides per hour and Distance
 
-The below plot indicates when the No of Rides are more the Seed
+The below plot indicates when the No of Rides are higher the Speed was low
 
+![speedchange_trips](https://cloud.githubusercontent.com/assets/25700292/25309312/c7404506-2797-11e7-8bba-f45f29686076.png)
+
+The below plot indicates when the Distance is high the speed is high ,May they are travelling out of city
+
+![speedchange_distance](https://cloud.githubusercontent.com/assets/25700292/25309311/c73c30e2-2797-11e7-8c94-955e92110dab.png)
 
 
 ## 3. Average Tip Range for the Drivers and Peak Hours where more Tips were Given
